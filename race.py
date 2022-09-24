@@ -58,7 +58,7 @@ def race(
     max_competitor_length = max(len(c) for c in competitors)
 
     # create generators for the progress of each competitor
-    competitor_progesses = {
+    competitor_progresses = {
         competitor: progress_generator(
             character, progress_strategy=nearly_fifty_fity_move
         )
