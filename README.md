@@ -4,6 +4,8 @@ Struggling to make a decision? To get a volunteer? Have nothing better to do?
 
 Let the whims of fate decide for you in a highly sophisticated terminal racing game.
 
+![example_gif](videos/example.gif)
+
 ## Installation
 
 ```
